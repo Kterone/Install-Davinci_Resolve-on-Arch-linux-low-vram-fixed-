@@ -19,4 +19,4 @@ chmod +x Omarchy_resolve_v2.sh
 -- just download the script given
 -- or make a .sh file with the given command
 ```bash
-__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia
+__NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia /opt/resolve/bin/resolve %u
